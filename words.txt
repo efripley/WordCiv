@@ -1,0 +1,11 @@
+rifle
+bullet
+canon
+soldier
+army
+navy
+aircraft
+fighter
+economy
+money
+
